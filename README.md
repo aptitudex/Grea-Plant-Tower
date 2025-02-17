@@ -1,4 +1,6 @@
 # Grea Plant Tower
+![Black and white digital render of grea plant tower digital design. Several plastic layers with space to house plants are supported by PVC pipe.](https://raw.githubusercontent.com/aptitudex/Grea-Plant-Tower/refs/heads/main/grea_plant_tower.PNG)
+
 Interest in sustainability has taken on new meaning as research reinforces the threat of climate change. One great way to practice personal sustainability is by growing food at home. However, agriculture is complex, and in urban environments, limited availability of space and sunlight can prevent individuals from starting their own gardens.
 
 The Grea Plant Tower addresses all of these needs by providing an easy-to-use hydroponic plant growth system that is compact, quick to assemble, cost-effective, and self-monitoring. It allows users with limited budgets, restrictive spaces, and busy lives to engage with sustainability and create a positive impact on their own health.
