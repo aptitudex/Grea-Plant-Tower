@@ -8,6 +8,6 @@ The Grea Plant Tower addresses all of these needs by providing an easy-to-use hy
 ## Repository Structure
 * /CAD - STEP files containing the geometry for 3D-printed tower parts
 * /Docs - PDF files containing project documentation and assembly instructions
-* /Embedded - Code for the Raspberry Pi Pico 2 platform with attached ADC and addressable LED strips. A TDS sensor should be attached to channel 0, and a water level sensor should be attached to channel 1. The setpoint constants should be set before use.
+* /Embedded - Code for the Raspberry Pi Pico 2 platform with attached ADC and addressable LED strips. A TDS sensor should be attached to channel 0, and a water level sensor should be attached to channel 1. The setpoint constants should be set before use. Requires pre-imaging with CircuitPython.
 
 Default pin settings: ADC via I2C- GP21, GP20 ; LED via PWM - GP28
